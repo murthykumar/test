@@ -5,4 +5,4 @@
 5, Johnny Cash, Title 482, Price $6.50
 6, Elvis Presley, Title 335, Price $7.30
 7, John Lennon, Title 271, Price $7.90
-8, Michael Jackson, Title 373, Price $5.50
+
